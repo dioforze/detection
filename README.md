@@ -1,2 +1,2 @@
 # detection
-https://github.com/[dioforze]/[detection]/blob/[main]/Скрин1.jpg?raw=true
+https://github.com/[dioforze]/[detection]/blob/[master]/data/Скрин1.jpg?raw=true
